@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Music Showcase
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+
+    <string name="default_song_title">Love The Way You Lie
+    </string>
+    <string name="default_song_text">singer
+    </string>
+    <string name="default_song_des">song description
+    </string>
+    <string name="arrow">arrow
+    </string>
+    <string name="default_song_duration">5:45
+    </string>
+
+</resources>
